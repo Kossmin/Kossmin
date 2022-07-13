@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hi there! My name's Trần Phạm Kim Sơn - aka <a href="https://github.com/Kossmin">Kossmin</a> 👋
+</hr>
+###Languages:
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=Kossmin&show_icons=true&theme=cobalt" width="400">
 
 <!--
 **Kossmin/Kossmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
